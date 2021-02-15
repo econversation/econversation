@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @econversation
-- 👀 I’m interested in Economics, Infrastructure, Economic Development & Data Science
-- 🌱 I’m currently learning R
-- 💞️ I’m looking to collaborate on anything on the interface of Economics and Data Science 
+- 👋 Hi, I’m @econversation (that is conversation about Economic & Environment)
+- 👀 I’m interested in Economics & Environment. I am also intrested in areas like Infrastructure, Automation, Data Science & Economic Development. 
+- 🌱 I’m currently learning R, Python.
+- 💞️ I’m looking to collaborate on anything on the interface of Economics, Environment and Data Science 
 - 📫 How to reach me: drop me a line, my email address is easy to find, just google my "Kumar Aniket UCL"
 
 <!---
