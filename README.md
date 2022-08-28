@@ -1,4 +1,5 @@
 - I am @econversation - an economist by training and who likes talking about economics, economic development & environment.
+- I am passionate about teaching economics.
 - This pages contains my codes and notes.
 - I’m currently learning R, Python.
 - I’m happy to collaborate on anything that is related tp economics, environment, ecnoomics development and data science 
