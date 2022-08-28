@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @econversation (that is conversation about Economic & Environment)
-- 👀 I’m interested in Economics & Environment. I am also intrested in areas like Infrastructure, Automation, Data Science & Economic Development. 
-- 🌱 I’m currently learning R, Python.
-- 💞️ I’m looking to collaborate on anything on the interface of Economics, Environment and Data Science 
-- 📫 How to reach me: drop me a line, my email address is easy to find, just google my "Kumar Aniket UCL"
+- I am @econversation - an economist by training and who likes talking about economics, economic development & environment.
+- This pages contains my codes and notes.
+- I’m currently learning R, Python.
+- I’m happy to collaborate on anything that is related tp economics, environment, ecnoomics development and data science 
+- My email address is easy to find - just google "Kumar Aniket UCL" and you should be able to find me.
 
 <!---
 econversation/econversation is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
